@@ -66,6 +66,6 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LAI XUE YI
 - LEE CHEE HOWE
 - NGUYEN PHUC CHUONG
-- TAN PENG WEN
+- TAN PENG WEN https://github.com/tanpengwen/perse24
 - TUNG YU FENG
 - WONG ZI YI
